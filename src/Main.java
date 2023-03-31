@@ -1,7 +1,5 @@
-package VIRTUALPET02.src;
-
 import java.util.Random;
-
+//Modificación en el proyecto
 public class Main {
     public static void main(String[] args) {
         char pet;
